@@ -1,0 +1,7 @@
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\bin\Debug\EmailServiceFactory.exe.config
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\bin\Debug\EmailServiceFactory.exe
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\bin\Debug\EmailServiceFactory.pdb
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\obj\Debug\EmailServiceFactory.csprojResolveAssemblyReference.cache
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\obj\Debug\EmailServiceFactory.csproj.CoreCompileInputs.cache
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\obj\Debug\EmailServiceFactory.exe
+C:\Users\l.savchenko\source\repos\EmailServiceFactory\EmailServiceFactory\obj\Debug\EmailServiceFactory.pdb
